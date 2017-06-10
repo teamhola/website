@@ -4,7 +4,7 @@ This is a hexo based static website, hosted on VividCloud Cluster L.
 
 Our production server should sync with the `built` branch in this repo.
 
-For our tech team members, you should be able to use `hexo d` to deploy to that branch.
+For our tech team members, you should be able to use `hexo g && hexo d` to deploy to that branch.
 
 ## Legal
 
