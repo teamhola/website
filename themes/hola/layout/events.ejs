@@ -1,0 +1,19 @@
+<% var last; %>
+<% _.sortBy(site.data[page.data], 'date').forEach(function(event, i){ %>
+  <% var year = moment(event.date).format('YYYY') %>
+  <% if (last != year){ %>
+    <% if (last != null){ %>
+      </div></section>
+    <% } %>
+    <% last = year; %>
+    <section class="archives-wrap">
+      <div class="archive-year-wrap">
+        <span class="archive-year"><%= year %></span>
+      </div>
+      <div class="archives">
+  <% } %>
+  <%- partial('_partial/event-item', {event: event}) %>
+<% }) %>
+<% if (site.data[page.data].length){ %>
+  </div></section>
+<% } %>

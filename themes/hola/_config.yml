@@ -2,6 +2,7 @@
 menu:
   首页: /
   团队: /team
+  活动: /events
   常见问题: /faq
 rss: /atom.xml
 
@@ -13,8 +14,8 @@ fancybox: true
 sidebar: right
 widgets:
 - category
-- tag
-- tagcloud
+#- tag
+#- tagcloud
 - recent_posts
 
 # display widgets at the bottom of index pages (pagination == 2)
