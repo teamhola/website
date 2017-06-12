@@ -30,3 +30,7 @@ title: 团队
 ### 张傲
 ** Tech Group **
 * TEDxYinzhouSeniorSchool 2016 财务负责人
+
+### 郭冰洁
+** Voluteer Group **
+* 鄞州高级中学模联前成员
