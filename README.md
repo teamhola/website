@@ -4,9 +4,11 @@ This is a hexo based static website, hosted on VividCloud Cluster L.
 
 Our production server should sync with the `built` branch in this repo.
 
-For our tech team members, you should be able to use `hexo g && hexo d` to deploy to that branch.
-
 ## Notes for website maintainers
+
+You should run `hexo g && hexo d` after your update. Don't forget to commit & push either.
+
+Sometimes your update don't apply to the online version immediately after your `hexo d`. Just try `hexo g && hexo d` again later.
 
 ### Adding a new event
 
