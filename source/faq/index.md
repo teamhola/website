@@ -24,6 +24,6 @@ date: 2017-06-09 22:19:19
   <p>如果您希望作为参会者参与各项活动，请关注官网上的活动页面，我们会在官网上更新相关信息。</p>
   <p>如果您想在活动上作为讲者发出自己的声音，请填写<a href="http://teamhola.mikecrm.com/ZFzeCBs" target="_blank">讲者注册表单</a>，我们会很快联系您。</p>
   <p>如果您想成为 ¡Hola! 的一员，请直接发送您的简历至 team (a) ihola . one，我们将会通过邮件与您取得联系。</p>
-  <p>如果您希望与 ¡Hola! 合作，或者是成为赞助商，请在 <a href="https://github.com/teamhola/partners/issues/new"<code>teamhola/partners</code></a> 上通过 Issue 形式联系我们。</p>
+  <p>如果您希望与 ¡Hola! 合作，或者是成为赞助商，请在 <a href="https://github.com/teamhola/partners/issues/new"><code>teamhola/partners</code></a> 上通过 Issue 形式联系我们。</p>
 </div>
 </section>
