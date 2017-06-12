@@ -17,9 +17,13 @@ date: 2017-06-09 22:19:19
 <h4>最近的 ¡Hola! 活动是？我怎么参与？</h4>
 <div>
   <p>最近的 ¡Hola! 活动将是今年暑假举行的 ¡Hola! Conf 2017，具体信息稍后放出。</p>
-  <p>如果您希望作为参会者参与这场活动，请继续关注我们，很快我们会公布相关信息。</p>
+  <p>我们尚未开放本次活动的参会者注册。其他形式的参与，请参照下一个问题。</p>
+</div>
+<h4>如何参与 ¡Hola! 及 ¡Hola! 活动？</h4>
+<div>
+  <p>如果您希望作为参会者参与各项活动，请关注官网上的活动页面，我们会在官网上更新相关信息。</p>
   <p>如果您想在活动上作为讲者发出自己的声音，请填写<a href="http://teamhola.mikecrm.com/ZFzeCBs" target="_blank">讲者注册表单</a>，我们会很快联系您。</p>
-  <p>如果您想成为 ¡Hola! 的一员，请直接发送您的简历至 laosb (a) lns . unihubs . com，我们将会通过邮件与您取得联系。</p>
+  <p>如果您想成为 ¡Hola! 的一员，请直接发送您的简历至 team (a) ihola . one，我们将会通过邮件与您取得联系。</p>
   <p>如果您希望与 ¡Hola! 合作，或者是成为赞助商，请在 <a href="https://github.com/teamhola/partners/issues/new"<code>teamhola/partners</code></a> 上通过 Issue 形式联系我们。</p>
 </div>
 </section>
