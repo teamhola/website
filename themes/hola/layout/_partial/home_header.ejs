@@ -4,20 +4,20 @@
     <% let event = _.find(site.data.events, { slug: site.data.home.home_event }) %>
     <div id="header-title" class="inner home-header-title">
       <h1 id="logo-wrap">
-        <a href="<%- url_for('/events/' + event.slug) %>" id="logo">
+        <a href="<%- url_for('/events/' + event.slug + '.html') %>" id="logo">
           <img class="header-logo" src="<%- url_for('css/images/holaw.svg') %>" alt="¡Hola!">
           <span><%= event.short_name %></span>
         </a>
       </h1>
       <% if (theme.subtitle){ %>
         <h2 id="subtitle-wrap">
-          <a href="<%- url_for('/events/' + event.slug) %>" id="subtitle"><%= event.slogan %></a>
+          <a href="<%- url_for('/events/' + event.slug + '.html') %>" id="subtitle"><%= event.slogan %></a>
           <br><br>
           <p><%= date(event.date, 'MMM D') %></p>
           <p><%= event.location %></p>
           <br>
           <div class="action-buttons">
-            <a href="<%- url_for('/events/' + event.slug) %>">了解更多</a>
+            <a href="<%- url_for('/events/' + event.slug + '.html') %>">了解更多</a>
           </div>
         </h2>
       <% } %>
