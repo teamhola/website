@@ -10,8 +10,6 @@
 #header-inner
   position: relative
   overflow: hidden
-.header-logo
-  width: 25%; 
 #banner
   position: absolute
   top: 0
@@ -23,6 +21,9 @@
   //background-size: cover
   z-index: -1
 
+.banner-home
+  background: linear-gradient(-131deg, #006FFF 2%, #1BE6FF 90%)
+
 #header-title
   text-align: center
   height: logo-size
@@ -30,6 +31,9 @@
   top: 50%
   left: 0
   margin-top: logo-size * -0.5
+#header-title.home-header-title
+  top: 30%
+
 
 $logo-text
   text-decoration: none
@@ -42,6 +46,18 @@ $logo-text
   font-size: logo-size
   line-height: logo-size
   letter-spacing: 2px
+  color: #fff
+#logo img
+  height: 64px
+#logo *
+  vertical-align: middle
+#logo span
+  display: inline-block
+  font-size: 1.7em
+  //transform: translateY(0px)
+
+.home-header-title #subtitle-wrap, .home-header-title #subtitle
+  color: #fff
 
 #subtitle
   @extend $logo-text
@@ -85,6 +101,9 @@ $nav-link
   //letter-spacing: 1px
   @media mq-mobile
     display: none
+
+.home-header .main-nav-link, .home-header .nav-icon
+  color: #fff
 
 #main-nav-toggle
   display: none

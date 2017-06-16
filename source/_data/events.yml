@@ -1,7 +1,8 @@
 - name: ¡Hola! Conf 2017
+  short_name: Conf 2017
   type: conf
-  city: 宁波
-  location: 宁波银苑大酒店
+  city: 浙江宁波
+  location: 浙江省宁波市银苑大酒店
   date: 2017-08-08
   slogan: 寻觅自我的亮光 解锁尘封的禁锢
   slug: holaconf2017
