@@ -16,6 +16,10 @@ Sometimes your update don't apply to the online version immediately after your `
 2. Add a new page in `source/events/<slug>.md`;
 3. Commit & push, then `hexo g && hexo d`. 
 
+### Pinning an event on the home page
+
+Just edit `home_event` in `source/_data/home.yml` with the slug of the event.
+
 ## Legal
 
 All contents including images, text, hexo theme (`/themes/hola`) and other editorial things in this repo is copyrightted by Team ¡Hola!, and can not be used without license from Team ¡Hola!.
