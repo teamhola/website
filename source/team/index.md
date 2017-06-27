@@ -23,6 +23,11 @@ title: 团队
 ** Budget Group **
 * 鄞州高级中学越剧社前社长
 
+### 陈慈波
+** Budget Group **
+* 宁波中学话剧社，广播与主持社前社长
+* 2016 CIXIMUN 组委成员
+
 ### 时云潇
 ** Tech Group **
 * TEDxYinzhouSeniorSchool 2016 技术组成员
