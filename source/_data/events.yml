@@ -1,3 +1,10 @@
+- name: ¡Hola! Connect June 2017
+  short_name: Connect Jun 17'
+  type: connect
+  city: 浙江宁波
+  date: 2017-06-28
+  slogan: 寻觅自我的亮光 解锁尘封的禁锢
+  slug: holaconnect_jun17
 - name: ¡Hola! Conf 2017
   short_name: Conf 2017
   type: conf
