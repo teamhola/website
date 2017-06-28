@@ -4,8 +4,7 @@ layout: page
 ---
 
 ¡Hola! Connect 是 ¡Hola! 主办的网络直播活动。
-
-直播地址将在本页放出，敬请期待。
+直播地址：http://live.bilibili.com/47502
 
 本次内容主要有：
 
