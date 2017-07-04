@@ -1,6 +1,38 @@
 - name: 吕世博
-  job: Team Leader
+  job: 团队总负责人 (Leader)
   titles:
   - UnitedHubs GeekyTeen Conference 15' 总负责人
   - 鄞州高级中学 Do 创客社前社长
   - TEDxYinzhouSeniorSchool 2016 活动总管
+- name: 徐嘉淇
+  job: 公共关系方面负责人 (PR)
+  titles:
+  - 鄞州高级中学模联人事总负责人
+  - TEDxYinzhouSeniorSchool 2016 活动公共关系负责人
+- name: 朱诗涵
+  job: 活动质量控制方面负责人 (QC)
+  titles:
+  - 鄞州高级中学模联前秘书长
+  - 象山模拟联合国大会主席团成员
+  - TEDxYinzhouSeniorSchool 2016 活动总协调人
+- name: 张睿
+  job: 财务预算方面负责人 (BM)
+  titles:
+  - 鄞州高级中学越剧社前社长
+- name: 陈慈波
+  job: 财务预算方面成员 (BM)
+  titles:
+  - 宁波中学话剧社，广播与主持社前社长
+  - 2016 CIXIMUN 组委成员
+- name: 张傲
+  job: 技术支持方面负责人 (TC)
+  titles:
+  - TEDxYinzhouSeniorSchool 2016 财务负责人
+- name: 时云潇
+  job: 技术支持方面成员 (TC)
+  titles:
+  - TEDxYinzhouSeniorSchool 2016 技术组成员
+- name: 郭冰洁
+  job: 志愿者方面负责人 (VC)
+  titles:
+  - 鄞州高级中学模联前成员
