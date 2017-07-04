@@ -18,6 +18,7 @@
           <br>
           <div class="action-buttons">
             <a href="<%- url_for('/events/' + event.slug + '.html') %>">了解更多</a>
+            <%= event.signup_url ? `<a href="${event.signup_url}">立即参与</a>` : '' %>
           </div>
         </h2>
       <% } %>
