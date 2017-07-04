@@ -1,5 +1,7 @@
 ---
 title: 团队
+layout: team
+data: team
 ---
 
 ### 吕世博

@@ -1,0 +1,11 @@
+<section class="archives-wrap">
+      <div class="archive-year-wrap">
+        <span class="archive-year">¡Hola! 团队</span>
+      </div>
+      <div class="archives">
+<% site.data[page.data].forEach(function(member, i){ %>
+    <%- partial('_partial/member-item', {member}) %>
+<% }) %>
+<% if (site.data[page.data].length){ %>
+  </div></section>
+<% } %>
