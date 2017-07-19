@@ -73,3 +73,15 @@ deploy:
   branch: built
   name: Holabot
   email: email_is_not_ready_at_this_time@ihola.one
+
+asset_pipeline:
+  revisioning:
+    enable: true
+  clean_css:
+    enable: true
+  uglify_js:
+    enable: true
+  imagemin:
+    enable: true
+  html_minifier:
+    enable: true
