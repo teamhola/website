@@ -17,6 +17,7 @@ widgets:
 #- tag
 #- tagcloud
 - recent_posts
+- partners
 
 # display widgets at the bottom of index pages (pagination == 2)
 index_widgets:
