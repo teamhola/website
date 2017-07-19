@@ -3,7 +3,7 @@ title: ¡Hola! Conf 2017
 layout: page
 ---
 
-[立即成为听众！](http://teamhola.mikecrm.com/VMlkHPS) | [讲者](/2017/07/holaconf17-speaker/)
+### [立即成为听众！](http://teamhola.mikecrm.com/VMlkHPS) | [讲者](/2017/07/holaconf17-speaker/)
 
 「¡Hola!」是由青少年自行发起并组织的团队。此次我们以「寻觅自我的亮光，解锁尘封的禁锢」为口号，面向广大青少年举办 ¡Hola! Conf 2017。
 
