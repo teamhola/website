@@ -7,7 +7,7 @@ date: 2017-06-09 22:19:19
 <h4>什么是 ¡Hola!？什么是 ¡Hola! Conf？</h4>
 <div>
   <p>¡Hola! 是一句西班牙语问候，意为「你好！」。¡Hola! 是一个青少年组织，主办 ¡Hola! Conf 和 ¡Hola! Meetup 等活动。</p>
-  <p>¡Hola! Conf 是一年一度的，由 ¡Hola! 主办的青少年大会，旨在促进青少年之间、青少年与社会之间的交流沟通，主要的活动形式是短演讲。¡Hola! Conf 2017 将是 ¡Hola! 组织的第一次大型线下活动，即将到来，敬请期待！</p>
+  <p>¡Hola! Conf、¡Hola! Meetup和¡Hola! Connect是本组织组织的、以青少年为主要面向人群的、以短演讲为主要活动方式的非营利性活动。其中，¡Hola! Conf 是一年一度的，由 ¡Hola! 主办的青少年大会，旨在促进青少年之间、青少年与社会之间的交流沟通，主要的活动形式是短演讲。¡Hola! Conf 2017 将是 ¡Hola! 组织的第一次大型线下活动，即将到来，敬请期待！</p>
 </div>
 <h4>¡Hola! Conf 和 ¡Hola! Meetup 的区别是？还有 ¡Hola! Connect？</h4>
 <div>
