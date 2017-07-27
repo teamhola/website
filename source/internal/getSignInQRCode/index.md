@@ -12,7 +12,7 @@ date: 2017-07-21 22:19:19
 <div id="qrcode">
   <p id="loading-notice">加载中……</p>
 </div>
-<script src="https://unpkg.cnpmjs.org/kjua"></script>
+<script src="https://unpkg.cnpmjs.org/kjua" onerror="document.querySelector('#loading-notice').innerText = '出错了，请刷新或更换浏览器重试。'"></script>
 <script>
   var qrhash = document.location.hash.slice(1)
   var qrcodeEl = kjua({ text: 'https://backend.ihola.one/qr?userid=' + qrhash });
