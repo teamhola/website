@@ -77,7 +77,7 @@ deploy:
 asset_pipeline:
   revisioning:
     enable: true
-    exclude: ['sitemap.xml', 'browserconfig.xml', 'android-*.png', 'apple-*.png', 'favicon*.*', 'mstile-*.png', 'safari-*.png', '*.json']
+    exclude: ['sitemap.xml', 'browserconfig.xml', 'android-*.png', 'apple-*.png', 'favicon*.*', 'mstile-*.png', 'safari-*.png', '*.json', 'atom.xml']
   clean_css:
     enable: true
   uglify_js:
@@ -86,3 +86,8 @@ asset_pipeline:
     enable: true
   html_minifier:
     enable: true
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
