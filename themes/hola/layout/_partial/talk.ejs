@@ -18,7 +18,9 @@
             <embed quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=<%- custom_field('pages', post.title, 'bilibili') %>&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed>
           </div>
           <div videoplay id="videoplay-youtube">
-            <iframe src="https://www.youtube.com/embed/<%- custom_field('pages', post.title, 'youtube') %>" frameborder="0" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/<%- custom_field('pages', post.title, 'youtube') %>" frameborder="0" allowfullscreen>
+              <p>在某些网络环境下，您可能无法使用 YouTube 视频源。</p>
+            </iframe>
           </div>
         </div>
         <div class="video-switcher">
@@ -26,7 +28,9 @@
             <a href="#bilibili" id="videosrc-bilibili" class="videosrc">哔哩哔哩</a>
             <a href="#youtube" id="videosrc-youtube" class="videosrc">YouTube</a>
         </div>
+        <p>本视频录制于 <%- custom_field('pages', post.title, 'event') %>，讲者 <%- custom_field('pages', post.title, 'speaker') %>。</p>
         <%- post.content %>
+        <p>所有 ¡Hola! 活动视频均以 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">CC-BY-NC-SA 4.0</a> 协议发布。请遵守协议，转载请注明出处，请勿用于商业用途。</p>
       </div>
       <footer class="article-footer">
         <a data-url="<%- post.permalink %>" data-id="<%= post._id %>" class="article-share-link"><%= __('share') %></a>
