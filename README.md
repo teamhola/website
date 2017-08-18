@@ -10,15 +10,9 @@ You should run `hexo g && hexo d` after your update. Don't forget to commit & pu
 
 Sometimes your update don't apply to the online version immediately after your `hexo d`. Just try `hexo g && hexo d` again later.
 
-### Adding a new event
+### No more direct event adding/editing
 
-1. Add a new entry in `source/_data/events.yml`;
-2. Add a new page in `source/events/<slug>.md`;
-3. Commit & push, then `hexo g && hexo d`. 
-
-### Pinning an event on the home page
-
-Just edit `home_event` in `source/_data/home.yml` with the slug of the event.
+We're moving our event managing to a individual system, teamhola/osem, which is [open sourced on GitHub too](https://github.com/teamhola/osem). If you need access to the administration, please contact other team members.
 
 ### Adding members
 
