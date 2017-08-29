@@ -3,7 +3,7 @@ title: ¡Hola! Conf 2017
 layout: page
 ---
 
-### [浏览演讲视频记录](http://teamhola.mikecrm.com/VMlkHPS) | [讲者](/2017/07/holaconf17-speaker/)
+### [浏览演讲视频记录](https://space.bilibili.com/8810223/#!/channel/detail?cid=20842) | [讲者](/2017/07/holaconf17-speaker/)
 
 [¡Hola! 概念宣传片](/2017/06/the-concept-video/) | [常见问题](/faq)
 
