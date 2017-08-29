@@ -8,6 +8,8 @@ tags:
 
 为了纪念这次活动，感谢所有讲者的付出，我们为部分讲者的演讲内容制作了相关的纪念衫。
 
+<!-- more -->
+
 ![Harry Poter](http://hola.app-cdn.vvd.nbyg.net/store/img/t-17hp.png)
 
 ![Smartphone](http://hola.app-cdn.vvd.nbyg.net/store/img/t-17sp.png)
