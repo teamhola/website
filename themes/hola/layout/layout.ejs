@@ -1,7 +1,7 @@
 <%- partial('_partial/head') %>
-<body>
+<body class="hola-body-typography hola-grey-bg">
   <div id="container">
-    <div id="wrap">
+    <div>
       <% if (is_home()) { %>
         <%- partial('_partial/home_header', null, {cache: !config.relative_link}) %>
       <% } else { %>
