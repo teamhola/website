@@ -1,7 +1,7 @@
 <% if (site.posts.length){ %>
   <div class="widget-wrap">
     <div class="hola-card">
-      <h2 class="hola-card-title"><%= __('recent_posts') %></h2>
+      <h2 class="hola-card-title ihola-widget-title"><%= __('recent_posts') %></h2>
       <ul>
         <% site.posts.sort('date', -1).limit(5).each(function(post){ %>
           <li>
