@@ -1,13 +1,11 @@
-<article class="archive-article archive-type-page">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <h1 itemprop="name" class="archive-article-title"><%= member.name %></h1>
-      <p class="hola-job-line"><%= member.job %></p>
-      <ul class="hola-title-list">
-        <% member.titles.forEach((e)=>{ %>
-          <li><%= e %></li>
-        <% }) %>
-      </ul>
-    </header>
-  </div>
+<article class="hola-columns-item ihola-margined-column-item">
+  <header class="archive-article-header">
+    <h1 itemprop="name" class="archive-article-title"><%= member.name %></h1>
+    <p class="hola-job-line"><%= member.job %></p>
+    <ul class="hola-title-list">
+      <% member.titles.forEach((e)=>{ %>
+        <li><%= e %></li>
+      <% }) %>
+    </ul>
+  </header>
 </article>
