@@ -1,14 +1,9 @@
-<footer id="footer">
-  <% if (theme.sidebar === 'bottom'){ %>
-    <%- partial('_partial/sidebar') %>
-  <% } %>
-  <div class="outer">
-    <div id="footer-info" class="inner">
-      &copy; <%= date(new Date(), 'YYYY') %> <%= config.author || config.title %><br>
-      <%= __('powered_by') %> <a href="http://hexo.io/" target="_blank">Hexo</a> with our own theme.<br>
-      本组织及其活动独立于任何第三方，包括但不限于学校、企业和有关机关部门。<br>
-      Source of this website can be found on <a href="https://github.com/teamhola/website">our GitHub repo</a>.<br>
-      <a href="/safety-notice">安全免责声明</a>
-    </div>
+<footer class="hola-footer">
+  <div class="hola-container">
+    &copy; <%= date(new Date(), 'YYYY') %> <%= config.author || config.title %><br>
+    <%= __('powered_by') %> <a href="http://hexo.io/" target="_blank">Hexo</a> with our own theme.<br>
+    本组织及其活动独立于任何第三方，包括但不限于学校、企业和有关机关部门。<br>
+    Source of this website can be found on <a href="https://github.com/teamhola/website">our GitHub repo</a>.<br>
+    <a href="/safety-notice">安全免责声明</a>
   </div>
 </footer>

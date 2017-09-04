@@ -1,11 +1,11 @@
-<section class="archives-wrap">
-      <div class="archive-year-wrap">
-        <span class="archive-year">¡Hola! 团队</span>
-      </div>
-      <div class="archives">
-<% site.data[page.data].forEach(function(member, i){ %>
-    <%- partial('_partial/member-item', {member}) %>
-<% }) %>
-<% if (site.data[page.data].length){ %>
+<section class="article hola-card-stack">
+  <div class="hola-card">
+    <h2 class="hola-card-title ihola-widget-title">¡Hola! 团队</h2>
+    <div class="hola-columns ihola-ruled-columns">
+      <% site.data[page.data].forEach(function(member, i){ %>
+          <%- partial('_partial/member-item', {member}) %>
+      <% }) %>
+      <% if (site.data[page.data].length){ %>
+    </div>
   </div></section>
 <% } %>

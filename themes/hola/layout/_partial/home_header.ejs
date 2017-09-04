@@ -1,44 +1,26 @@
-<header id="header">
-  <div id="banner" class="banner-home"></div>
-  <div id="header-outer" class="outer">
-    <% let event = _.find(site.data.events, { slug: site.data.home.home_event }) %>
-    <div id="header-title" class="inner home-header-title">
-      <h1 id="logo-wrap">
-        <a href="<%- url_for('/events/' + event.slug + '.html') %>" id="logo">
-          <img class="header-logo" src="<%- url_for('css/images/holaw.svg') %>" alt="¡Hola!">
-          <span><%= event.short_name %></span>
-        </a>
-      </h1>
-      <% if (theme.subtitle){ %>
-        <h2 id="subtitle-wrap">
-          <a href="<%- url_for('/events/' + event.slug + '.html') %>" id="subtitle"><%= event.slogan %></a>
-          <br><br>
-          <p><%= date(event.date, 'MMM D') %></p>
-          <p><%= event.location %></p>
-          <br>
-          <div class="action-buttons">
-            <a href="<%- url_for('/events/' + event.slug + '.html') %>">了解更多</a>
-            <%= event.signup_url ? `<a href="${event.signup_url}">立即参与</a>` : '' %>
-          </div>
-        </h2>
+<header class="hola-navbar hola-navbar-transparent hola-navbar-darkbg hola-navbar-with-hero">
+  <div class="hola-container">
+    <nav class="hola-navbar-main">
+      <a href="/" class="hola-navbar-brand">¡Hola!</a>
+    </nav>
+    <nav class="hola-navbar-sub">
+      <% for (var i in theme.menu){ %>
+        <a href="<%- url_for(theme.menu[i]) %>"><%= i %></a>
       <% } %>
-    </div>
-    <div id="header-inner" class="inner">
-      <nav id="main-nav" class="home-header">
-        <a id="main-nav-toggle" class="nav-icon"></a>
-        <% for (var i in theme.menu){ %>
-          <a class="main-nav-link" href="<%- url_for(theme.menu[i]) %>"><%= i %></a>
-        <% } %>
-      </nav>
-      <nav id="sub-nav" class="home-header">
-        <% if (theme.rss){ %>
-          <a id="nav-rss-link" class="nav-icon" href="<%- theme.rss %>" title="<%= __('rss_feed') %>"></a>
-        <% } %>
-        <a id="nav-search-btn" class="nav-icon" title="<%= __('search') %>"></a>
-      </nav>
-      <div id="search-form-wrap">
-        <%- search_form({button: '&#xF002;'}) %>
-      </div>
-    </div>
+    </nav>
   </div>
 </header>
+<div class="hola-hero hola-hero-height-extended">
+  <div class="hola-container hola-hero-content">
+    <% let event = _.find(site.data.events, { slug: site.data.home.home_event }) %>
+    <h1 id="logo-wrap" class="logo">
+      <img class="header-logo" src="<%- url_for('css/images/holaw.svg') %>" alt="¡Hola!">
+      <span><%= event.short_name %></span>
+    </h1>
+    <br>
+    <p><%= event.slogan %></p>
+    <p><%= date(event.date, 'MMM D') %> · <%= event.location %></p>
+    <a href="<%- url_for('/events/' + event.slug + '.html') %>" class="hola-link-cta">了解更多</a>
+    <%= event.signup_url ? `<a href="${event.signup_url}" class="hola-link-cta">立即参与</a>` : '' %>
+  </div>
+</div>

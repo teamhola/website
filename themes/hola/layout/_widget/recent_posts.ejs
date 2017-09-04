@@ -1,10 +1,10 @@
 <% if (site.posts.length){ %>
   <div class="widget-wrap">
-    <h3 class="widget-title"><%= __('recent_posts') %></h3>
-    <div class="widget">
-      <ul>
+    <div class="hola-card">
+      <h2 class="hola-card-title ihola-widget-title"><%= __('recent_posts') %></h2>
+      <ul class="hola-vmenu">
         <% site.posts.sort('date', -1).limit(5).each(function(post){ %>
-          <li>
+          <li class="hola-vmenu-item">
             <a href="<%- url_for(post.path) %>"><%= post.title || '(no title)' %></a>
           </li>
         <% }) %>
