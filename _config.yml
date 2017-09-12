@@ -76,7 +76,7 @@ deploy:
 
 asset_pipeline:
   revisioning:
-    enable: true
+    enable: false
     exclude: ['sitemap.xml', 'browserconfig.xml', 'android-*.png', 'apple-*.png', 'favicon*.*', 'mstile-*.png', 'safari-*.png', '*.json', 'atom.xml']
   clean_css:
     enable: true
