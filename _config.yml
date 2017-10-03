@@ -83,7 +83,7 @@ asset_pipeline:
   uglify_js:
     enable: true
   imagemin:
-    enable: true
+    enable: false
   html_minifier:
     enable: true
 
