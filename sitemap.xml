@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ihola.one/2017/08/holaxluogu/</loc>
+    
+    <lastmod>2017-12-19T03:30:23.784Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://ihola.one/2017/08/conf17-souvenirs/</loc>
+    
+    <lastmod>2017-12-19T03:30:23.784Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://ihola.one/public_platform/index.html</loc>
+    
+    <lastmod>2017-12-19T02:39:58.236Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://ihola.one/2017/11/hola-again-aut17/</loc>
     
     <lastmod>2017-11-03T15:34:43.880Z</lastmod>
@@ -23,23 +44,9 @@
   </url>
   
   <url>
-    <loc>https://ihola.one/talks/test.html</loc>
-    
-    <lastmod>2017-11-03T15:19:41.588Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://ihola.one/safety-notice/index.html</loc>
     
     <lastmod>2017-11-03T15:19:41.588Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://ihola.one/public_platform/index.html</loc>
-    
-    <lastmod>2017-11-03T15:19:41.587Z</lastmod>
     
   </url>
   
@@ -54,6 +61,13 @@
     <loc>https://ihola.one/manifest.json</loc>
     
     <lastmod>2017-11-03T15:19:41.586Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://ihola.one/events/holaconnect_jun17.html</loc>
+    
+    <lastmod>2017-11-03T15:19:41.585Z</lastmod>
     
   </url>
   
@@ -79,20 +93,6 @@
   </url>
   
   <url>
-    <loc>https://ihola.one/events/holaconnect_jun17.html</loc>
-    
-    <lastmod>2017-11-03T15:19:41.585Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://ihola.one/2017/08/holaxluogu/</loc>
-    
-    <lastmod>2017-11-03T15:19:41.584Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://ihola.one/2017/06/the-concept-video/</loc>
     
     <lastmod>2017-11-03T15:19:41.584Z</lastmod>
@@ -103,13 +103,6 @@
     <loc>https://ihola.one/2017/07/holaconf17-speaker/</loc>
     
     <lastmod>2017-11-03T15:19:41.584Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://ihola.one/2017/08/conf17-souvenirs/</loc>
-    
-    <lastmod>2017-11-03T15:19:41.583Z</lastmod>
     
   </url>
   
