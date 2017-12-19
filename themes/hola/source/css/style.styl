@@ -1,16 +1,6 @@
-@import "nib"
 @import "_variables"
 
 @import url('https://fonts.proxy.ustclug.org/css?family=Montserrat:400,700');
-
-global-reset()
-
-input, button
-  margin: 0
-  padding: 0
-  &::-moz-focus-inner
-    border: 0
-    padding: 0
 
 @font-face
   font-family: FontAwesome
@@ -25,40 +15,8 @@ input, button
 html, body, #container
   height: 100%
 
-body
-  background: color-background
-  font: font-size font-sans
-  -webkit-text-size-adjust: 100%
-
-.inner
-  column(columns)
-
-.left, .alignleft
-  float: left
-
-.right, .alignright
-  float: right
-
-.clear
-  clear: both
-
 #container
   position: relative
-
-.mobile-nav-on
-  overflow: hidden
-
-#wrap
-  height: 100%
-  width: 100%
-  position: absolute
-  top: 0
-  left: 0
-  transition: 0.2s ease-out
-  z-index: 1
-  background: color-background
-  .mobile-nav-on &
-    left: mobile-nav-width
 
 @import "_extend"
 @import "_partial/header"
