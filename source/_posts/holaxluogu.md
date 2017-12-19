@@ -14,7 +14,7 @@ tags:
 
 今天，为了纪念 ¡Hola! 与洛谷之间的紧密合作，我们发行了「¡Hola! x 洛谷」纪念文化衫。这是第一次 ¡Hola! 与第三方联手推出的项目，也是洛谷第一款纪念衫，为所有 ¡Hola! 和洛谷的支持者定制。是你们，成就了 ¡Hola! Conf 2017，也成就了洛谷。
 
-![¡Hola! x 洛谷](http://hola.app-cdn.vvd.nbyg.net/store/img/t-17lg.png)
+![¡Hola! x 洛谷](http://hola-stor.cdn-nossl.vvdapp.com/store/img/t-17lg.png)
 
 本文化衫价格为￥66.66，将于 9 月 8 日起发货。所有收入将支持 ¡Hola! 和洛谷的持续发展。
 
