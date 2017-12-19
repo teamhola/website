@@ -1,11 +1,19 @@
-<section class="article hola-card-stack">
-  <div class="hola-card">
-    <h2 class="hola-card-title ihola-widget-title">¡Hola! 团队</h2>
-    <div class="hola-columns ihola-ruled-columns">
-      <% site.data[page.data].forEach(function(member, i){ %>
-          <%- partial('_partial/member-item', {member}) %>
-      <% }) %>
-      <% if (site.data[page.data].length){ %>
-    </div>
-  </div></section>
-<% } %>
+<div class="outer">
+  <section id="main">
+    <section class="article hola-card-stack">
+      <div class="hola-card">
+        <h2 class="hola-card-title ihola-widget-title">¡Hola! 团队</h2>
+        <div class="hola-columns ihola-ruled-columns">
+          <% site.data[page.data].forEach(function(member, i){ %>
+              <%- partial('_partial/member-item', {member}) %>
+          <% }) %>
+          <% if (site.data[page.data].length){ %>
+        </div>
+      </div>
+    </section>
+    <% } %>
+  </section>
+  <% if (theme.sidebar && theme.sidebar !== 'bottom'){ %>
+    <%- partial('_partial/sidebar', null, {cache: !config.relative_link}) %>
+  <% } %>
+</div>
