@@ -3,6 +3,8 @@
     <nav class="hola-navbar-main">
       <a href="/" class="hola-navbar-brand">¡Hola!</a>
     </nav>
+    <input type="checkbox" class="hola-navbar-toggle" id="navbar-toggle">
+    <label for="navbar-toggle" class="hola-navbar-toggle-label"></label>
     <nav class="hola-navbar-sub">
       <% for (var i in theme.menu){ %>
         <a href="<%- url_for(theme.menu[i]) %>"><%= i %></a>
