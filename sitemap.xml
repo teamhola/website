@@ -37,14 +37,14 @@
   </url>
   
   <url>
-    <loc>https://new.ihola.one/2017/08/holaxluogu/</loc>
+    <loc>https://new.ihola.one/2017/08/conf17-souvenirs/</loc>
     
     <lastmod>2017-12-19T03:30:23.784Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://new.ihola.one/2017/08/conf17-souvenirs/</loc>
+    <loc>https://new.ihola.one/2017/08/holaxluogu/</loc>
     
     <lastmod>2017-12-19T03:30:23.784Z</lastmod>
     
@@ -72,13 +72,6 @@
   </url>
   
   <url>
-    <loc>https://new.ihola.one/team/index.html</loc>
-    
-    <lastmod>2017-11-03T15:19:41.588Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://new.ihola.one/safety-notice/index.html</loc>
     
     <lastmod>2017-11-03T15:19:41.588Z</lastmod>
@@ -86,9 +79,9 @@
   </url>
   
   <url>
-    <loc>https://new.ihola.one/manifest.json</loc>
+    <loc>https://new.ihola.one/team/index.html</loc>
     
-    <lastmod>2017-11-03T15:19:41.586Z</lastmod>
+    <lastmod>2017-11-03T15:19:41.588Z</lastmod>
     
   </url>
   
@@ -100,9 +93,9 @@
   </url>
   
   <url>
-    <loc>https://new.ihola.one/events/index.html</loc>
+    <loc>https://new.ihola.one/manifest.json</loc>
     
-    <lastmod>2017-11-03T15:19:41.585Z</lastmod>
+    <lastmod>2017-11-03T15:19:41.586Z</lastmod>
     
   </url>
   
@@ -115,6 +108,13 @@
   
   <url>
     <loc>https://new.ihola.one/events/holaconnect_jun17.html</loc>
+    
+    <lastmod>2017-11-03T15:19:41.585Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://new.ihola.one/events/index.html</loc>
     
     <lastmod>2017-11-03T15:19:41.585Z</lastmod>
     
