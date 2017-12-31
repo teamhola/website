@@ -2,44 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ihola.one/2017/12/financial-report-2017-2/</loc>
-    
-    <lastmod>2017-12-30T04:07:36.599Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://ihola.one/public_platform/index.html</loc>
-    
-    <lastmod>2017-12-30T03:39:40.980Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://ihola.one/talks/test.html</loc>
     
-    <lastmod>2017-12-30T03:39:40.980Z</lastmod>
+    <lastmod>2017-12-31T16:08:40.383Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://ihola.one/2017/08/holaxluogu/</loc>
     
-    <lastmod>2017-12-30T03:39:40.979Z</lastmod>
+    <lastmod>2017-12-31T16:08:40.382Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://ihola.one/public_platform/index.html</loc>
+    
+    <lastmod>2017-12-31T16:08:40.382Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://ihola.one/faq/index.html</loc>
     
-    <lastmod>2017-12-30T03:39:40.979Z</lastmod>
+    <lastmod>2017-12-31T16:08:40.382Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://ihola.one/2017/08/conf17-souvenirs/</loc>
     
-    <lastmod>2017-12-30T03:39:40.978Z</lastmod>
+    <lastmod>2017-12-31T16:08:40.381Z</lastmod>
     
   </url>
   
@@ -86,7 +79,7 @@
   </url>
   
   <url>
-    <loc>https://ihola.one/events/index.html</loc>
+    <loc>https://ihola.one/events/holaconnect_jun17.html</loc>
     
     <lastmod>2017-11-03T15:19:41.585Z</lastmod>
     
@@ -100,7 +93,7 @@
   </url>
   
   <url>
-    <loc>https://ihola.one/events/holaconnect_jun17.html</loc>
+    <loc>https://ihola.one/events/index.html</loc>
     
     <lastmod>2017-11-03T15:19:41.585Z</lastmod>
     
@@ -121,14 +114,14 @@
   </url>
   
   <url>
-    <loc>https://ihola.one/2017/06/hello-conf-2017/</loc>
+    <loc>https://ihola.one/2017/06/call-for-volunteer/</loc>
     
     <lastmod>2017-11-03T15:19:41.583Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ihola.one/2017/06/call-for-volunteer/</loc>
+    <loc>https://ihola.one/2017/06/hello-conf-2017/</loc>
     
     <lastmod>2017-11-03T15:19:41.583Z</lastmod>
     
