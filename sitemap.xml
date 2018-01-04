@@ -2,126 +2,154 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ihola.one/talks/test.html</loc>
+    <loc>https://new.ihola.one/public_platform/index.html</loc>
     
-    <lastmod>2017-12-31T16:08:40.383Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://ihola.one/2017/08/holaxluogu/</loc>
-    
-    <lastmod>2017-12-31T16:08:40.382Z</lastmod>
+    <lastmod>2018-01-04T15:23:47.092Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ihola.one/public_platform/index.html</loc>
+    <loc>https://new.ihola.one/2017/07/holaconf17-speaker/</loc>
     
-    <lastmod>2017-12-31T16:08:40.382Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://ihola.one/faq/index.html</loc>
-    
-    <lastmod>2017-12-31T16:08:40.382Z</lastmod>
+    <lastmod>2018-01-04T15:02:48.871Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ihola.one/2017/08/conf17-souvenirs/</loc>
+    <loc>https://new.ihola.one/faq/participating.html</loc>
     
-    <lastmod>2017-12-31T16:08:40.381Z</lastmod>
+    <lastmod>2018-01-04T14:06:07.801Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ihola.one/2017/11/hola-again-aut17/</loc>
+    <loc>https://new.ihola.one/faq/index.html</loc>
+    
+    <lastmod>2018-01-04T14:06:07.801Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://new.ihola.one/faq/history.html</loc>
+    
+    <lastmod>2018-01-04T14:06:07.800Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://new.ihola.one/faq/curiosity.html</loc>
+    
+    <lastmod>2018-01-04T14:06:07.800Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://new.ihola.one/faq/contact.html</loc>
+    
+    <lastmod>2018-01-04T14:06:07.799Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://new.ihola.one/2017/08/holaxluogu/</loc>
+    
+    <lastmod>2018-01-04T14:06:07.798Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://new.ihola.one/2017/12/financial-report-2017-2/</loc>
+    
+    <lastmod>2018-01-04T14:06:07.797Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://new.ihola.one/2017/08/conf17-souvenirs/</loc>
+    
+    <lastmod>2018-01-04T14:06:07.796Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://new.ihola.one/2017/11/hola-again-aut17/</loc>
     
     <lastmod>2017-11-03T15:34:43.880Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ihola.one/events/holaconnect_aut17.html</loc>
+    <loc>https://new.ihola.one/events/holaconnect_aut17.html</loc>
     
     <lastmod>2017-11-03T15:26:04.219Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ihola.one/team/index.html</loc>
+    <loc>https://new.ihola.one/safety-notice/index.html</loc>
     
     <lastmod>2017-11-03T15:19:41.588Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ihola.one/safety-notice/index.html</loc>
+    <loc>https://new.ihola.one/team/index.html</loc>
     
     <lastmod>2017-11-03T15:19:41.588Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ihola.one/manifest.json</loc>
+    <loc>https://new.ihola.one/manifest.json</loc>
     
     <lastmod>2017-11-03T15:19:41.586Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ihola.one/internal/getSignInQRCode/index.html</loc>
+    <loc>https://new.ihola.one/internal/getSignInQRCode/index.html</loc>
     
     <lastmod>2017-11-03T15:19:41.586Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ihola.one/events/holaconnect_jun17.html</loc>
+    <loc>https://new.ihola.one/events/holaconnect_jun17.html</loc>
     
     <lastmod>2017-11-03T15:19:41.585Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ihola.one/events/holaconf2017.html</loc>
+    <loc>https://new.ihola.one/events/holaconf2017.html</loc>
     
     <lastmod>2017-11-03T15:19:41.585Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ihola.one/events/index.html</loc>
+    <loc>https://new.ihola.one/events/index.html</loc>
     
     <lastmod>2017-11-03T15:19:41.585Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ihola.one/2017/06/the-concept-video/</loc>
+    <loc>https://new.ihola.one/2017/06/the-concept-video/</loc>
     
     <lastmod>2017-11-03T15:19:41.584Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ihola.one/2017/07/holaconf17-speaker/</loc>
-    
-    <lastmod>2017-11-03T15:19:41.584Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://ihola.one/2017/06/call-for-volunteer/</loc>
+    <loc>https://new.ihola.one/2017/06/hello-conf-2017/</loc>
     
     <lastmod>2017-11-03T15:19:41.583Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ihola.one/2017/06/hello-conf-2017/</loc>
+    <loc>https://new.ihola.one/2017/06/call-for-volunteer/</loc>
     
     <lastmod>2017-11-03T15:19:41.583Z</lastmod>
     
