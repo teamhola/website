@@ -1,19 +1,33 @@
-<% var last; %>
-<% _.sortBy(site.data[page.data], 'date').forEach(function(event, i){ %>
-  <% var year = moment(event.date).format('YYYY') %>
-  <% if (last != year){ %>
-    <% if (last != null){ %>
-      </div></section>
-    <% } %>
-    <% last = year; %>
-    <section class="archives-wrap">
-      <div class="archive-year-wrap">
-        <span class="archive-year"><%= year %></span>
-      </div>
-      <div class="archives">
-  <% } %>
-  <%- partial('_partial/event-item', {event: event}) %>
-<% }) %>
-<% if (site.data[page.data].length){ %>
-  </div></section>
-<% } %>
+<div class="hola-container hola-card-stack">
+  <div class="hola-card" style="background-image: url(/static/banners/events_bg.jpg)">
+    <div class="hola-hero">
+      <div class="hola-hero-content"></div>
+    </div>
+  </div>
+</div>
+<div class="hola-container hola-layout-container hola-layout-container-sidebar-right">
+  <section class="hola-layout-main hola-card-stack">
+    <div class="hola-card-stack">
+      <% _.orderBy(site.data[page.data], 'date', 'desc').forEach(function(event, i){ %>
+      <%- partial('_partial/event-item', {event: event}) %>
+      <% }) %>
+  </section>
+  <aside class="hola-layout-sidebar hola-card-stack">
+    <div class="hola-card hola-card-with-image">
+      <img src="/static/events/conf.jpg" alt="Conf" class="hola-image">
+      <h2 class="hola-card-title">Conf</h2>
+      <p>一年一度的思想盛宴</p>
+    </div>
+    <!-- We haven't hold a meetup yet.
+    <div class="hola-card hola-card-with-image">
+      <img src="/static/events/meetup.jpg" alt="Meetup" class="hola-image">
+      <h2 class="hola-card-title">Meetup</h2>
+    </div>
+    -->
+    <div class="hola-card hola-card-with-image">
+      <img src="/static/events/connect.jpg" alt="Connect" class="hola-image">
+      <h2 class="hola-card-title">Connect</h2>
+      <p>线上线下已无界限</p>
+    </div>
+  </aside>
+</div>

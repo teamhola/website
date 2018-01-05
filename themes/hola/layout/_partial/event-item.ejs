@@ -1,12 +1,6 @@
-<article class="archive-article archive-type-page">
-  <a class="hola-no-underline" href="<%- url_for('/events/' + event.slug + '.html') %>">
-    <div class="archive-article-inner hola-event-card hola-event-card-<%= event.type %>">
-      <header class="archive-article-header">
-        <h1 itemprop="name" class="archive-article-title"><%= event.name %></h1>
-        <p><%= event.slogan %></p>
-        <time class="hola-iconed hola-iconed-clock" datetime="<%= date_xml(event.date) %>" itemprop="datePublished"><%= date(event.date, 'MMM D') %></time>
-        <span class="hola-iconed hola-iconed-city"><%= event.city %></span>
-      </header>
-    </div>
-  </a>
-</article>
+<a href="<%- url_for('/events/' + event.slug + '.html') %>">
+  <div class="hola-card">
+    <h2 class="hola-card-title"><%= event.name %></h2>
+    <p><%= event.slogan %> · <%= date(event.date, 'YYYY MMM D') %> @ <%= event.city %></p>
+  </div>
+</a>
