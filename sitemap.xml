@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://new.ihola.one/team/values.html</loc>
+    
+    <lastmod>2018-01-06T09:54:48.550Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://new.ihola.one/public_platform/index.html</loc>
     
     <lastmod>2018-01-04T15:23:47.092Z</lastmod>
@@ -16,13 +23,6 @@
   </url>
   
   <url>
-    <loc>https://new.ihola.one/faq/index.html</loc>
-    
-    <lastmod>2018-01-04T14:06:07.801Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://new.ihola.one/faq/participating.html</loc>
     
     <lastmod>2018-01-04T14:06:07.801Z</lastmod>
@@ -30,14 +30,21 @@
   </url>
   
   <url>
-    <loc>https://new.ihola.one/faq/history.html</loc>
+    <loc>https://new.ihola.one/faq/index.html</loc>
+    
+    <lastmod>2018-01-04T14:06:07.801Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://new.ihola.one/faq/curiosity.html</loc>
     
     <lastmod>2018-01-04T14:06:07.800Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://new.ihola.one/faq/curiosity.html</loc>
+    <loc>https://new.ihola.one/faq/history.html</loc>
     
     <lastmod>2018-01-04T14:06:07.800Z</lastmod>
     
@@ -114,13 +121,6 @@
   </url>
   
   <url>
-    <loc>https://new.ihola.one/events/holaconnect_jun17.html</loc>
-    
-    <lastmod>2017-11-03T15:19:41.585Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://new.ihola.one/events/holaconf2017.html</loc>
     
     <lastmod>2017-11-03T15:19:41.585Z</lastmod>
@@ -129,6 +129,13 @@
   
   <url>
     <loc>https://new.ihola.one/events/index.html</loc>
+    
+    <lastmod>2017-11-03T15:19:41.585Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://new.ihola.one/events/holaconnect_jun17.html</loc>
     
     <lastmod>2017-11-03T15:19:41.585Z</lastmod>
     
