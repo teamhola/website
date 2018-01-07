@@ -16,7 +16,7 @@
   <div class="hola-container hola-hero-content">
     <% let event = _.find(site.data.events, { slug: site.data.home.home_event }) %>
     <h1 id="logo-wrap" class="logo">
-      <img class="header-logo" src="<%- url_for('css/images/holaw.svg') %>" alt="¡Hola!">
+      <img class="header-logo" src="<%- url_for('static/images/holaw.svg') %>" alt="¡Hola!">
       <span><%= event.short_name %></span>
     </h1>
     <br>
