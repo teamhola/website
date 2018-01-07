@@ -4,7 +4,14 @@
   <url>
     <loc>https://new.ihola.one/team/values.html</loc>
     
-    <lastmod>2018-01-06T09:54:48.550Z</lastmod>
+    <lastmod>2018-01-07T05:18:10.254Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://new.ihola.one/team/recruit.html</loc>
+    
+    <lastmod>2018-01-07T05:16:24.095Z</lastmod>
     
   </url>
   
@@ -23,13 +30,6 @@
   </url>
   
   <url>
-    <loc>https://new.ihola.one/faq/participating.html</loc>
-    
-    <lastmod>2018-01-04T14:06:07.801Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://new.ihola.one/faq/index.html</loc>
     
     <lastmod>2018-01-04T14:06:07.801Z</lastmod>
@@ -37,14 +37,21 @@
   </url>
   
   <url>
-    <loc>https://new.ihola.one/faq/curiosity.html</loc>
+    <loc>https://new.ihola.one/faq/participating.html</loc>
+    
+    <lastmod>2018-01-04T14:06:07.801Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://new.ihola.one/faq/history.html</loc>
     
     <lastmod>2018-01-04T14:06:07.800Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://new.ihola.one/faq/history.html</loc>
+    <loc>https://new.ihola.one/faq/curiosity.html</loc>
     
     <lastmod>2018-01-04T14:06:07.800Z</lastmod>
     
@@ -107,14 +114,14 @@
   </url>
   
   <url>
-    <loc>https://new.ihola.one/manifest.json</loc>
+    <loc>https://new.ihola.one/internal/getSignInQRCode/index.html</loc>
     
     <lastmod>2017-11-03T15:19:41.586Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://new.ihola.one/internal/getSignInQRCode/index.html</loc>
+    <loc>https://new.ihola.one/manifest.json</loc>
     
     <lastmod>2017-11-03T15:19:41.586Z</lastmod>
     
