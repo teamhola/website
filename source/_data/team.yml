@@ -2,15 +2,14 @@
   job: 团队总负责人、信息组负责人
   description: 曾为 TEDx 活动策展人，现在希望以更开放、更接地气的形式使思想涌流。
 - name: 徐嘉淇
-  job: 宣传组负责人
+  job: 技术组负责人
   description: 期待听到更多独特的小众的声音。这里包容一切，这里欢迎一切。Be weird, think wild.
 - name: 朱诗涵
   job: 质量组负责人
   description: 曾担任一 TEDx 活动协调者和模联协会秘书长，希望发掘到更深度的思想观点，分享给更多的青少年。
 - name: 张睿
-  job: 财务组负责人
-  titles:
-  - 鄞州高级中学越剧社前社长
+  job: 宣传组负责人
+  description: 卧听风竹疑倾言，坐看飞花似彩笺。片语分声来入梦，一枝一叶总关情。
 - name: 张傲
   job: 后勤组负责人
   titles:
@@ -25,7 +24,7 @@
   titles:
   - 鄞州高级中学摄影社前副社长
 - name: 时云潇
-  job: 技术组负责人
+  job: 财务组负责人
   titles:
   - TEDxYinzhouSeniorSchool 2016 技术组成员
 - name: 陈思童
@@ -53,7 +52,6 @@
   - 一分钱助学项目负责人
   - 扬州中学微公益社创始人、社长
   - 第二届云从模拟联合国大会技术总监
-#- name: 郭冰洁
-#  job: 志愿者方面负责人 (VC)
-#  titles:
-#  - 鄞州高级中学模联前成员
+- name: 鲁航宇
+  job: 宣传组成员
+  description:
