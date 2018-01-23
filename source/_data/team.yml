@@ -1,71 +1,56 @@
 - name: 吕世博
   job: 团队总负责人、信息组负责人
-  titles:
-  - UnitedHubs GeekyTeen Conference 15' 总负责人
-  - 鄞州高级中学 Do 创客社前社长
-  - TEDxYinzhouSeniorSchool 2016 活动总管
+  description: 曾为 TEDx 活动策展人，现在希望以更开放、更接地气的形式使思想涌流。
 - name: 徐嘉淇
-  job: 宣传组负责人
-  titles:
-  - 鄞州高级中学模联人事总负责人
-  - TEDxYinzhouSeniorSchool 2016 活动公共关系负责人
+  job: 技术组负责人
+  description: 期待听到更多独特的小众的声音。这里包容一切，这里欢迎一切。Be weird, think wild.
 - name: 朱诗涵
   job: 质量组负责人
-  titles:
-  - 鄞州高级中学模联前秘书长
-  - 象山模拟联合国大会主席团成员
-  - TEDxYinzhouSeniorSchool 2016 活动总协调人
+  description: 曾担任一 TEDx 活动协调者和模联协会秘书长，希望发掘到更深度的思想观点，分享给更多的青少年。
 - name: 张睿
-  job: 财务组负责人
-  titles:
-  - 鄞州高级中学越剧社前社长
-- name: 陈慈波
-  job: 财务组成员
-  titles:
-  - 宁波中学话剧社，广播与主持社前社长
-  - 2016 CIXIMUN 组委成员
+  job: 宣传组负责人
+  description: 卧听风竹疑倾言，坐看飞花似彩笺。片语分声来入梦，一枝一叶总关情。
 - name: 张傲
   job: 后勤组负责人
   titles:
   - TEDxYinzhouSeniorSchool 2016 财务负责人
-- name: 时云潇
-  job: 技术组负责人
-  titles:
-  - TEDxYinzhouSeniorSchool 2016 技术组成员
-- name: 傅腾
-  job: 技术组成员
-  titles:
-  - 鄞州高级中学摄影社前副社长
-- name: 庄灵燕
-  job: 宣传组成员
-  titles:
-  - 高中毕业生
-- name: 陈思童
-  job: 设计组负责人
-  titles:
-  - Minecraft 团队 Innovacreation 创始人
-  - OwlCity 中国歌迷网站长
 - name: 高远
   job: 技术组成员
   titles:
   - 鄞州高级中学前摄影师
   - 大地的妈妈工作室创始人之一
+- name: 傅腾
+  job: 技术组成员
+  titles:
+  - 鄞州高级中学摄影社前副社长
+- name: 时云潇
+  job: 财务组负责人
+  description: 不会吟诗，亦难为大事。鲜露头面，却常闷自声。以寂静来斗争，这是我的理想；用内心来隐忍，这是我的现实。只期望我们的声音能真正体现我们所言、所思、所做，然后，所求。
+- name: 陈思童
+  job: 设计组负责人
+  titles:
+  - Minecraft 团队 Innovacreation 创始人
+  - OwlCity 中国歌迷网站长
+- name: 方芳
+  job: 市场组负责人
+  titles:
+  - ¡Hola! Conf 2017 志愿者
 - name: 徐涵
   job: 技术组成员
   titles:
   - 宁波市第三中学吉他社前社长
   - 宁波市第三中学校乐队成员
-- name: 方芳
-  job: 市场组负责人
+- name: 陈慈波
+  job: 财务组成员
   titles:
-  - ¡Hola! Conf 2017 志愿者
+  - 宁波中学话剧社，广播与主持社前社长
+  - 2016 CIXIMUN 组委成员
 - name: 张佑杰
   job: 信息组成员
   titles:
   - 一分钱助学项目负责人
   - 扬州中学微公益社创始人、社长
   - 第二届云从模拟联合国大会技术总监
-#- name: 郭冰洁
-#  job: 志愿者方面负责人 (VC)
-#  titles:
-#  - 鄞州高级中学模联前成员
+- name: 鲁航宇
+  job: 宣传组成员
+  description: 起于众，高于众，归于众。不自满，不强求，不虚无。努力提高自己的知识水平，不忘初心，砥砺前行。

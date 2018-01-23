@@ -1,14 +1,12 @@
 <% if (site.data.partners.length){ %>
-  <div class="widget-wrap">
-    <div class="hola-card">
-      <h3 class="hola-card-title ihola-widget-title">合作伙伴 & 赞助商</h3>
-      <ul>
-        <% site.data.partners.forEach(function(partner){ %>
-          <li>
-            <a href="<%- partner.url %>"><img src="<%- url_for(partner.img) %>" alt="<%- partner.name %>" class="hola-partner-logo"></a>
-          </li>
-        <% }) %>
-      </ul>
-    </div>
+  <div class="hola-card">
+    <h2 class="hola-card-title ihola-widget-title">合作伙伴 & 赞助商</h2>
+    <ul class="ihola-partner-list">
+      <% site.data.partners.forEach(function(partner){ %>
+        <li>
+          <a href="<%- partner.url %>"><img src="<%- url_for(partner.img) %>" alt="<%- partner.name %>" class="ihola-partner-logo"></a>
+        </li>
+      <% }) %>
+    </ul>
   </div>
 <% } %>

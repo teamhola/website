@@ -1,31 +1,33 @@
-section.hola-faq {
+.ihola-faq {
     text-align: justify;
     //margin: 4em 0;
 }
-
-.hola-faq>h4 {
-    font-size: 1.2em;
+.ihola-faq h4 {
+  line-height: 2
 }
-
-.hola-faq>h4::before {
+.ihola-faq h4::before {
     content: "Q:";
     padding: 0 .3em;
     margin: 0 .3em 0 0;
-    background-image: linear-gradient(131deg, #006FFF 2%, #1BE6FF 90%);
+    background: #3498db;
     color: #fff;
 }
-.hola-faq>div {
-    position: relative;
-    padding-left: 2.3em;
+.ihola-faq blockquote {
+    text-align: justify
+    font-size: 1em;
+    font-family: inherit
+    margin: 0
 }
-.hola-faq>div::before {
-    position: absolute;
+.ihola-faq blockquote::before {
     top: 0;
     left: 0;
     content: "A:";
     padding: 0 .3em;
-    font-size: 1.2em;
     font-weight: bold;
-    background-image: linear-gradient(131deg, #006FFF 2%, #1BE6FF 90%);
+    background: #3498db;
     color: #fff;
+}
+.ihola-faq blockquote p {
+  margin-top: .3em;
+  margin-bottom: 1em;
 }

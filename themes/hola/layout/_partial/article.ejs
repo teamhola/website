@@ -2,9 +2,7 @@
   <div class="article-inner hola-card">
     <%- partial('post/gallery') %>
     <% if (post.link || post.title){ %>
-      <header class="hola-card-title">
-        <%- partial('post/title', {class_name: 'article-title'}) %>
-      </header>
+      <%- partial('post/title', {class_name: 'article-title'}) %>
     <% } %>
     <% if (!page){ %>
       <div><b>

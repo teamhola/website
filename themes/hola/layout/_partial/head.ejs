@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="hola-var">
+<html class="hola-var hola-html-reset">
 <head>
   <meta charset="utf-8">
   <%
@@ -28,9 +28,6 @@
   <% if (theme.favicon){ %>
     <link rel="icon" href="<%- theme.favicon %>">
   <% } %>
-  <% if (config.highlight.enable){ %>
-    <link href="https://fonts.proxy.ustclug.org/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
-  <% } %>
   <%- css('css/style') %>
   <%- partial('google-analytics') %>
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -41,5 +38,5 @@
   <meta name="apple-mobile-web-app-title" content="&iexcl;Hola!">
   <meta name="application-name" content="&iexcl;Hola!">
   <meta name="theme-color" content="#ffffff">
-  <link rel="stylesheet" href="https://unpkg.cnpmjs.org/holakit@0.13.2/dist/holakit.css">
+  <link rel="stylesheet" href="https://unpkg.cnpmjs.org/holakit@0.17.2/dist/holakit.css">
 </head>
