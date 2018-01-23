@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://new.ihola.one/coming_soon.html</loc>
+    
+    <lastmod>2018-01-23T08:47:53.367Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://new.ihola.one/team/values.html</loc>
     
     <lastmod>2018-01-07T05:18:10.254Z</lastmod>
@@ -30,14 +37,14 @@
   </url>
   
   <url>
-    <loc>https://new.ihola.one/faq/index.html</loc>
+    <loc>https://new.ihola.one/faq/participating.html</loc>
     
     <lastmod>2018-01-04T14:06:07.801Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://new.ihola.one/faq/participating.html</loc>
+    <loc>https://new.ihola.one/faq/index.html</loc>
     
     <lastmod>2018-01-04T14:06:07.801Z</lastmod>
     
@@ -128,7 +135,7 @@
   </url>
   
   <url>
-    <loc>https://new.ihola.one/events/index.html</loc>
+    <loc>https://new.ihola.one/events/holaconf2017.html</loc>
     
     <lastmod>2017-11-03T15:19:41.585Z</lastmod>
     
@@ -142,7 +149,7 @@
   </url>
   
   <url>
-    <loc>https://new.ihola.one/events/holaconf2017.html</loc>
+    <loc>https://new.ihola.one/events/index.html</loc>
     
     <lastmod>2017-11-03T15:19:41.585Z</lastmod>
     
