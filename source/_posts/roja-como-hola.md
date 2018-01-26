@@ -12,6 +12,12 @@ tags:
 
 2018，希望新的旅途，依然有同行的你。
 
-## [淘宝店购买](https://item.taobao.com/item.htm?spm=0.7095261.0.0.4cb45989lbbIEh&id=564600433595)
+[淘宝店购买](https://item.taobao.com/item.htm?spm=0.7095261.0.0.4cb45989lbbIEh&id=564600433595)
 
-## [Holalife 购买](http://teamhola.mikecrm.com/cXWWhWv)
+[Holalife 购买](http://teamhola.mikecrm.com/cXWWhWv)
+
+<!-- more -->
+
+![1](http://hola-stor.cdn-nossl.vvdapp.com/store/img/18ny-1.jpg)
+![2](http://hola-stor.cdn-nossl.vvdapp.com/store/img/18ny-2.jpg)
+![3](http://hola-stor.cdn-nossl.vvdapp.com/store/img/18ny-3.jpg)
