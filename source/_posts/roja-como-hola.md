@@ -21,3 +21,5 @@ tags:
 ![1](http://hola-stor.cdn-nossl.vvdapp.com/store/img/18ny-1.jpg)
 ![2](http://hola-stor.cdn-nossl.vvdapp.com/store/img/18ny-2.jpg)
 ![3](http://hola-stor.cdn-nossl.vvdapp.com/store/img/18ny-3.jpg)
+
+另外，今天我们亦推出了 ¡Hola! x 洛谷纪念马克杯，可以参见洛谷上的的[帖子](https://www.luogu.org/discuss/show/31837)。
