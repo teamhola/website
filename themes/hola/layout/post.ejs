@@ -1,8 +1,0 @@
-<div class="hola-container hola-layout-container hola-layout-container-sidebar-right">
-  <section class="hola-layout-main hola-card-stack">
-    <%- partial('_partial/article', {post: page, index: false, page: false}) %>
-  </section>
-  <% if (theme.sidebar && theme.sidebar !== 'bottom'){ %>
-    <%- partial('_partial/sidebar', null, {cache: !config.relative_link}) %>
-  <% } %>
-</div>
