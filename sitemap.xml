@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ihola.one/team/index.html</loc>
+    <loc>https://ihola.one/team/recruit.html</loc>
     
     <lastmod>2018-09-25T14:34:36.456Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ihola.one/team/recruit.html</loc>
+    <loc>https://ihola.one/team/index.html</loc>
     
     <lastmod>2018-09-25T14:34:36.456Z</lastmod>
     
@@ -58,14 +58,14 @@
   </url>
   
   <url>
-    <loc>https://ihola.one/faq/participating.html</loc>
+    <loc>https://ihola.one/faq/history.html</loc>
     
     <lastmod>2018-09-25T14:34:36.441Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ihola.one/faq/history.html</loc>
+    <loc>https://ihola.one/faq/participating.html</loc>
     
     <lastmod>2018-09-25T14:34:36.441Z</lastmod>
     
@@ -79,14 +79,14 @@
   </url>
   
   <url>
-    <loc>https://ihola.one/faq/contact.html</loc>
+    <loc>https://ihola.one/events/holaconnect_aut17.html</loc>
     
     <lastmod>2018-09-25T14:34:36.440Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ihola.one/events/holaconnect_aut17.html</loc>
+    <loc>https://ihola.one/events/holaconnect_jun17.html</loc>
     
     <lastmod>2018-09-25T14:34:36.440Z</lastmod>
     
@@ -100,7 +100,7 @@
   </url>
   
   <url>
-    <loc>https://ihola.one/events/holaconnect_jun17.html</loc>
+    <loc>https://ihola.one/faq/contact.html</loc>
     
     <lastmod>2018-09-25T14:34:36.440Z</lastmod>
     
@@ -135,7 +135,7 @@
   </url>
   
   <url>
-    <loc>https://ihola.one/2018/01/roja-como-hola/</loc>
+    <loc>https://ihola.one/2017/11/hola-again-aut17/</loc>
     
     <lastmod>2018-09-25T14:34:36.437Z</lastmod>
     
@@ -143,6 +143,13 @@
   
   <url>
     <loc>https://ihola.one/2017/06/the-concept-video/</loc>
+    
+    <lastmod>2018-09-25T14:34:36.437Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://ihola.one/2018/01/roja-como-hola/</loc>
     
     <lastmod>2018-09-25T14:34:36.437Z</lastmod>
     
@@ -163,14 +170,7 @@
   </url>
   
   <url>
-    <loc>https://ihola.one/2017/11/hola-again-aut17/</loc>
-    
-    <lastmod>2018-09-25T14:34:36.437Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://ihola.one/2017/08/conf17-souvenirs/</loc>
+    <loc>https://ihola.one/2017/12/financial-report-2017-2/</loc>
     
     <lastmod>2018-09-25T14:34:36.436Z</lastmod>
     
@@ -184,7 +184,7 @@
   </url>
   
   <url>
-    <loc>https://ihola.one/2017/12/financial-report-2017-2/</loc>
+    <loc>https://ihola.one/2017/08/conf17-souvenirs/</loc>
     
     <lastmod>2018-09-25T14:34:36.436Z</lastmod>
     
