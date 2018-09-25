@@ -1,0 +1,3 @@
+[submodule "themes/holakit"]
+	path = themes/holakit
+	url = https://github.com/teamhola/hexo-holakit
