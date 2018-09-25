@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ihola.one/team/recruit.html</loc>
+    <loc>https://ihola.one/team/values.html</loc>
     
     <lastmod>2018-09-25T14:34:36.456Z</lastmod>
     
@@ -16,7 +16,7 @@
   </url>
   
   <url>
-    <loc>https://ihola.one/team/values.html</loc>
+    <loc>https://ihola.one/team/recruit.html</loc>
     
     <lastmod>2018-09-25T14:34:36.456Z</lastmod>
     
@@ -37,14 +37,14 @@
   </url>
   
   <url>
-    <loc>https://ihola.one/internal/getSignInQRCode/index.html</loc>
+    <loc>https://ihola.one/manifest.json</loc>
     
     <lastmod>2018-09-25T14:34:36.443Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ihola.one/manifest.json</loc>
+    <loc>https://ihola.one/internal/getSignInQRCode/index.html</loc>
     
     <lastmod>2018-09-25T14:34:36.443Z</lastmod>
     
@@ -79,7 +79,7 @@
   </url>
   
   <url>
-    <loc>https://ihola.one/events/holaconnect_aut17.html</loc>
+    <loc>https://ihola.one/events/holaconnect_jun17.html</loc>
     
     <lastmod>2018-09-25T14:34:36.440Z</lastmod>
     
@@ -93,6 +93,13 @@
   </url>
   
   <url>
+    <loc>https://ihola.one/events/holaconnect_aut17.html</loc>
+    
+    <lastmod>2018-09-25T14:34:36.440Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://ihola.one/events/index.html</loc>
     
     <lastmod>2018-09-25T14:34:36.440Z</lastmod>
@@ -100,21 +107,14 @@
   </url>
   
   <url>
-    <loc>https://ihola.one/events/holaconnect_jun17.html</loc>
-    
-    <lastmod>2018-09-25T14:34:36.440Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://ihola.one/events/holaconf2017.html</loc>
+    <loc>https://ihola.one/coming_soon.html</loc>
     
     <lastmod>2018-09-25T14:34:36.439Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ihola.one/coming_soon.html</loc>
+    <loc>https://ihola.one/events/holaconf2017.html</loc>
     
     <lastmod>2018-09-25T14:34:36.439Z</lastmod>
     
@@ -170,14 +170,7 @@
   </url>
   
   <url>
-    <loc>https://ihola.one/2017/06/call-for-volunteer/</loc>
-    
-    <lastmod>2018-09-25T14:34:36.436Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://ihola.one/2017/12/financial-report-2017-2/</loc>
+    <loc>https://ihola.one/2017/08/conf17-souvenirs/</loc>
     
     <lastmod>2018-09-25T14:34:36.436Z</lastmod>
     
@@ -191,7 +184,14 @@
   </url>
   
   <url>
-    <loc>https://ihola.one/2017/08/conf17-souvenirs/</loc>
+    <loc>https://ihola.one/2017/12/financial-report-2017-2/</loc>
+    
+    <lastmod>2018-09-25T14:34:36.436Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://ihola.one/2017/06/call-for-volunteer/</loc>
     
     <lastmod>2018-09-25T14:34:36.436Z</lastmod>
     
